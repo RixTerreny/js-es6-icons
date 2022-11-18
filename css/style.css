@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+main{
+    height: 88.89vh;
+}
+
+.box{
+    background-color:white;
+    padding: 1rem;
+    border-radius: 7px;
+    box-shadow: 1px 1px 4px black;
+    text-align: center;
+}
+
+.orange{
+    color: blue;
+}
+
+.green{
+    color: goldenrod;
+}
+
+.blue{
+    color: rgb(91, 42, 136);
+}
